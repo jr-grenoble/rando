@@ -588,7 +588,7 @@ The trick is thus to use the [codecogs] LaTeX equation editor and generate image
 to embed equations in the text. The previous text would thus render as:
 > When a ≠ 0, there are two solutions to ax² + bx + c = 0 and they are:  
 >   <p style="text-align: center;">
->       <img src="https://latex.codecogs.com/png.latex?\dpi{100}&space;\fg_grey&space;\bg_white&space;\fn_phv&space;$$x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^2-4ac}}{2a}$$" title="$$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$" />
+>       <img src="https://ibm.codecogs.com/png.latex?\dpi{100}&space;\fg_grey&space;\bg_white&space;\fn_phv&space;$$x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^2-4ac}}{2a}$$" title="$$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$" />
 >   </p>
 
 ### [❖] Style ###
