@@ -1,6 +1,6 @@
 [❖] *Alpine Trails* Requirements
 ================================
-<base href="https://github.com/jr-grenoble/rando/blob/master#❖" target="_self">
+<base href="https://github.com/jr-grenoble/rando/blob/master#" target="_self">
 
 This description of the requirements and [specifications] for
 *[alpine trails][alpinetrails]*, a site dedicated to hiking in the Alps.
@@ -15,15 +15,15 @@ from external suppliers.
 
 These specifications are structured as follows:
 
-1. [Site Organization](#❖-site-organization)
-2. [Topo Preparation](#❖-topo-preparation)
-3. [Images and Icons](#❖-images-and-icons)
-4. [External Dependencies](#❖-external-dependencies)
+1. [Site Organization](#-site-organization)
+2. [Topo Preparation](#-topo-preparation)
+3. [Images and Icons](#-images-and-icons)
+4. [External Dependencies](#-external-dependencies)
 
-The [appendix](#❖-appendix) contains further information:
-1. [Compass](#❖-compass): a full description of our SVG compass
-2. [Dev tools](#❖-dev-tools): highly useful development tools
-3. [HTML tags](#❖-html-tags): underrated but useful HTML tags
+The [appendix](#-appendix) contains further information:
+1. [Compass](#-compass): a full description of our SVG compass
+2. [Dev tools](#-dev-tools): highly useful development tools
+3. [HTML tags](#-html-tags): underrated but useful HTML tags
 
 
 Our [markdown tools](#-markdown-tools) list the various utilities used to write [markdown] text.
