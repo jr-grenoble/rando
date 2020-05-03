@@ -1,6 +1,6 @@
 [❖] *Alpine Trails* Requirements
 ================================
-<base href="https://github.com/jr-grenoble/rando/blob/master#" target="_self">
+<base href="https://github.com/jr-grenoble/rando/blob/master#❖" target="_self">
 
 This description of the requirements and [specifications] for
 *[alpine trails][alpinetrails]*, a site dedicated to hiking in the Alps.
